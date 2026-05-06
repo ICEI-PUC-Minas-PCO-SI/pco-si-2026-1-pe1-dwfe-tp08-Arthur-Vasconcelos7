@@ -5,8 +5,8 @@ Nesta atividade, você fazer exercícios de programação para vai praticar a ma
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Arthur Victor Santos Vasconcelos
+- Matricula: 908058
 
 ## Prints do console do navegador
 
